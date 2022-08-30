@@ -7,6 +7,20 @@
       "dependencies": {},
       "hash": "4ce5a38125c8786a02813020f2d9c296f8a9110e"
     },
+    "com.leopotam.ecslite.extendedsystems": {
+      "version": "https://github.com/Leopotam/ecslite-extendedsystems.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ff2728df86290c905e91fa943b6ad8e8e2c22c3f"
+    },
+    "com.supremestranger.leoecs-lite-physics": {
+      "version": "https://github.com/supremestranger/leoecs-lite-physics.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4e7a935370c9455ec5d9eb9bed2e8580c4735615"
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.4",
       "depth": 0,
@@ -105,6 +119,13 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.voody.unileo.lite": {
+      "version": "https://github.com/voody2506/UniLeo-Lite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3726d31b5acbdf683edb372ea1efb74a12321c17"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
